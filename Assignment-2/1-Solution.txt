@@ -1,0 +1,11 @@
+1.
+
+a)
+
+Ans: True. 
+Explanation: Since, the variables A and B are assigned to the same values they share the same memory.
+
+b)
+
+Ans: True.
+Explanation: Since, the variables A and B are assigned to the same values they share the same memory.
